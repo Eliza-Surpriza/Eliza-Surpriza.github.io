@@ -1,7 +1,8 @@
 # Eliza Freestone
-## portfolio
 
-Hi! My name is Eliza Freestone. I'm studying Computer Science with an emphasis in Human-Computer Interaction at BYU, and I'll be graduating in April of 2027. I love logic puzzles and problem solving and finding ways to make systems work better for people. When I'm not coding, you can find me playing guitar and banjo, organizing backyard concerts, running and hking in the mountains, and gathering with friends and family. I aim to make the world a kinder and more whimsical place.
+Hi, I'm Eliza:)
+
+I love logic puzzles and problem solving and finding ways to make systems work better for people. I'm currently studying Computer Science with an emphasis in Human-Computer Interaction at BYU, and I'll be graduating in April of 2027. When I'm not coding, you can find me playing guitar and banjo, organizing backyard concerts, running and hking in the mountains, and gathering with friends and family. I aim to make the world a kinder and more whimsical place.
 
 ## some fun projects
 ### [the Ladybug Game](https://github.com/Eliza-Surpriza/ladybug_game)
@@ -18,3 +19,8 @@ I lead a team of six peer academic and career advisors at BYU's CS Belonging Off
 I worked with the software team at Eddy this summer to test new features and look for bugs in existing features.
 ### computer science TA
 I TAed for the intro programming class for two years, teaching lab sections and mentoring individual students.
+
+## learn more or say hi!
+### [linked in](https://www.linkedin.com/in/elizafreestone/)
+### [github](https://github.com/Eliza-Surpriza)
+### elizarfreestone@gmail.com
