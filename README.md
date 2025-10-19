@@ -1,6 +1,6 @@
 # Eliza Freestone
 
-Hi! I'm Eliza:)
+Hi! I'm eliza:)
 
 <img src="fish_lake_eliza.png" alt="eliza pic" width="200"/>
 
