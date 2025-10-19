@@ -10,3 +10,11 @@ I built an interactive text based implementation of a board game I grew up playi
 I built a chess server that can host multiple games of chess, highlight possible moves, and declare winners.
 ### [focus timer](https://github.com/Eliza-Surpriza/focus-timer)
 I learned about the basics of web development while creating a focus timer to keep track of how much time I spend on different projects and assignments
+
+## experience
+### academic advising team lead
+I lead a team of six peer academic and career advisors at BYU's CS Belonging Office. We help students prepare for internships and plan schedules and provide a space for everyone to belong in the CS program.
+### QA testing internship
+I worked with the software team at Eddy this summer to test new features and look for bugs in existing features.
+### computer science TA
+I TAed for the intro programming class for two years, teaching lab sections and mentoring individual students.
