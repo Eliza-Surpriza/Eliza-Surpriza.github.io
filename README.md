@@ -2,6 +2,8 @@
 
 Hi, I'm Eliza:)
 
+<img src="fish_lake_eliza.png" alt="eliza pic" width="200"/>
+
 I love logic puzzles and problem solving and finding ways to make systems work better for people. I'm currently studying Computer Science with an emphasis in Human-Computer Interaction at BYU, and I'll be graduating in April of 2027. When I'm not coding, you can find me playing guitar and banjo, organizing backyard concerts, running and hking in the mountains, and gathering with friends and family. I aim to make the world a kinder and more whimsical place.
 
 ## some fun projects
